@@ -1,5 +1,5 @@
 import Preview from "./Preview";
-import UserNav from "./userNav";
+import UserNav from "./UserNav";
 // import { useUserData } from "./store";
 
 const Content2 = ({ userData }) => {
